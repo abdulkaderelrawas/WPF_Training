@@ -1,0 +1,108 @@
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\03_MonhtlyTransactions.exe.config
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\03_MonhtlyTransactions.exe
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\03_MonhtlyTransactions.pdb
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\App.g.cs
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions_MarkupCompile.cache
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions_MarkupCompile.lref
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.g.resources
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\_03_MonhtlyTransactions.Properties.Resources.resources
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csproj.GenerateResource.cache
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csproj.CoreCompileInputs.cache
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.exe
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.pdb
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\Views\ShellView.g.cs
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\Views\ShellView.baml
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.xml
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\App.baml
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csproj.CopyComplete
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignColors.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignColors.pdb
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\en-US\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\en-US\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\tr-TR\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\tr-TR\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csprojAssemblyReference.cache
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\_03_MonhtlyTransactions.Properties.Resources.en-US.resources
+C:\Users\rawas\source\repos\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\_03_MonhtlyTransactions.Properties.Resources.tr-TR.resources
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\03_MonhtlyTransactions.exe.config
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\03_MonhtlyTransactions.exe
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\03_MonhtlyTransactions.pdb
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\en-US\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\tr-TR\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignColors.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.xml
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignColors.pdb
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csprojAssemblyReference.cache
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\Views\ShellView.g.cs
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\App.g.cs
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions_MarkupCompile.cache
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions_MarkupCompile.lref
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\App.baml
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\Views\ShellView.baml
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.g.resources
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\_03_MonhtlyTransactions.Properties.Resources.resources
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\_03_MonhtlyTransactions.Properties.Resources.en-US.resources
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\_03_MonhtlyTransactions.Properties.Resources.tr-TR.resources
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csproj.GenerateResource.cache
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csproj.CoreCompileInputs.cache
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\en-US\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\tr-TR\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csproj.CopyComplete
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.exe
+C:\Users\rawas\Desktop\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.pdb
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\03_MonhtlyTransactions.exe.config
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\03_MonhtlyTransactions.exe
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\03_MonhtlyTransactions.pdb
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\en-US\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\tr-TR\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignColors.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.xml
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignColors.pdb
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csprojAssemblyReference.cache
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\Views\ShellView.g.cs
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\App.g.cs
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions_MarkupCompile.cache
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions_MarkupCompile.lref
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\App.baml
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\Views\ShellView.baml
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.g.resources
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\_03_MonhtlyTransactions.Properties.Resources.resources
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\_03_MonhtlyTransactions.Properties.Resources.en-US.resources
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\_03_MonhtlyTransactions.Properties.Resources.tr-TR.resources
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csproj.GenerateResource.cache
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csproj.CoreCompileInputs.cache
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\en-US\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\tr-TR\03_MonhtlyTransactions.resources.dll
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.csproj.CopyComplete
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.exe
+C:\Users\rawas\Desktop\LostJobs\Lunes\Lunes Interview_Solutions\Software developer interview Lunes V2 _ Solutions\Projects\03_MonhtlyTransactions\03_MonhtlyTransactions\obj\Debug\03_MonhtlyTransactions.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ArrayOfTransactionsModel>
+  <TransactionsModel>
+    <transactionName>Salary</transactionName>
+    <transactionAmount>7000</transactionAmount>
+    <transactionType>System.Windows.Controls.ComboBoxItem: Earning</transactionType>
+  </TransactionsModel>
+  <TransactionsModel>
+    <transactionName>Groceries</transactionName>
+    <transactionAmount>-200</transactionAmount>
+    <transactionType>System.Windows.Controls.ComboBoxItem: Spending</transactionType>
+  </TransactionsModel>
+</ArrayOfTransactionsModel>
